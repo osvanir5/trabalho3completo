@@ -1,0 +1,28 @@
+.h1{
+    text-align: center;
+    background-color: yellow;
+    padding: 30px;
+}
+.foto3{
+    display: block;
+    margin: 0 auto;
+    width:464px;
+    height: 260px;
+    display: block;
+    margin: 0 auto;
+
+}
+.torta{
+    text-align: center;
+}
+
+.ab{
+    background-color: rgb(175, 174, 174);
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.az{
+    background-color: yellow;
+    padding: 30px;
+}

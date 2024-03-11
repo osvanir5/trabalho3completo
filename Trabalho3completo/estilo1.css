@@ -1,0 +1,24 @@
+.Receitas{
+    text-align: center;
+    background-color: yellow;
+    padding: 30px;
+}
+.imagem1{
+    display: block;
+    margin: 0 auto;
+    border-radius: 20%;
+}
+.h3{
+    text-align: center;
+}
+.foto2{
+    width: 232px;
+    height: 130px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 20%;
+}
+.Pe{
+    background-color: yellow;
+    padding: 30px;
+}
